@@ -1,5 +1,5 @@
 # video-game-analysis
-### Presentation (PDF): [*Games As a Measure of Risk Prevention*](https://github.com/tdewing19/video-game-analysis/blob/main/DataFest_2022_Submission.pdf)
+### Presentation (PDF): [*Games As a Measure of Risk Prevention*](https://github.com/tdewing19/video-game-analysis/blob/main/DataFest_2022_Submission.pdf) 🎮
 
 <p align="center">
   <img src="https://media.istockphoto.com/id/1300975502/vector/video-game-streamer-broadcasting-pc-gaming-broadcast-a-live-streamer-a-gamer-man-with-a.jpg?s=612x612&w=0&k=20&c=KxfcpG7lSTN3eEXJhyBkPcqbz23EgOFwXq8Vh4zilsY="/>
