@@ -1,4 +1,4 @@
-# DataFest-2022
+# video-game-analysis
 ### Presentation (PDF): [*Games As a Measure of Risk Prevention*](https://github.com/tdewing19/video-game-analysis/blob/main/DataFest_2022_Submission.pdf)
 
 <p align="center">
